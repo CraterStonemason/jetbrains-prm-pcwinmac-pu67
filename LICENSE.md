@@ -1,4 +1,4 @@
-# 
+# مجاني JetBrains PyCharm أدوات لـ Mac OS | نهائي JetBrains PyCharm أدوات لـ PC Windows. مع توثيق API و الفرق المرئي — مُحسَّن لأقصى أداء على جميع المنصات.
 
 
 
